@@ -1,0 +1,12 @@
+@font-face {
+    font-family: 'Amalfi';
+    src: url('Amalfi-Regular.eot');
+    src: local('Amalfi Regular'), local('Amalfi-Regular'),
+        url('Amalfi-Regular.eot?#iefix') format('embedded-opentype'),
+        url('Amalfi-Regular.woff2') format('woff2'),
+        url('Amalfi-Regular.woff') format('woff'),
+        url('Amalfi-Regular.ttf') format('truetype');
+    font-weight: normal;
+    font-style: normal;
+}
+
